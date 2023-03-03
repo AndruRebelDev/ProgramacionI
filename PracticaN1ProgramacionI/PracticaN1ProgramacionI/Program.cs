@@ -13,13 +13,25 @@ namespace PracticaN1ProgramacionI
 
             //-----------------------Ejercicio en clase Promedio 3 numeros-----------------------
 
-            Console.WriteLine("Cuantos numeros deseas ingresar?");
-            int b = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Cuantos numeros deseas ingresar?");
+            //int b = Convert.ToInt32(Console.ReadLine());
 
-            Promedio2 prom2 = new Promedio2(b);
-            prom2.LeerNumeros();
-            prom2.MostrarNumeros();
-            prom2.CalcularPromedio();
+            //Promedio2 prom2 = new Promedio2(b);
+            //prom2.LeerNumeros();
+            //prom2.MostrarNumeros();
+            //prom2.CalcularPromedio();
+
+
+            //---------------------Ejercicio Invertir Digitos-------------------------
+
+            Console.WriteLine("Ingresa un numero");
+            int  i1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ingresa un numero");
+            int i2 = Convert.ToInt32(Console.ReadLine());
+
+            InvertirDigitos inverNum = new InvertirDigitos(i1, i2);
+            inverNum.Invertir();
+
 
             //-----------------------Ejercicio Tablas-----------------------
 
