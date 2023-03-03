@@ -55,5 +55,22 @@ namespace PracticaN1ProgramacionI
                 
             }
         }
+
+        public void DefinirCalificacion()
+        {
+            if(promedio>=51.0f)
+            {
+
+                Console.WriteLine("El estudiante aprobo");
+
+            }
+            else
+            {
+
+                Console.WriteLine("El estudiante reprobo");
+
+            }
+
+        }
     }
 }
