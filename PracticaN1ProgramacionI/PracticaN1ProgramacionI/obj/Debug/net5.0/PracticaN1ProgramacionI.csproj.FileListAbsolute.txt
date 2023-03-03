@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\bin\Debug\net5.0\PracticaN1ProgramacionI.exe
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\bin\Debug\net5.0\PracticaN1ProgramacionI.deps.json
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\bin\Debug\net5.0\PracticaN1ProgramacionI.runtimeconfig.json
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\bin\Debug\net5.0\PracticaN1ProgramacionI.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\bin\Debug\net5.0\PracticaN1ProgramacionI.dll
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\bin\Debug\net5.0\ref\PracticaN1ProgramacionI.dll
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\bin\Debug\net5.0\PracticaN1ProgramacionI.pdb
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\obj\Debug\net5.0\PracticaN1ProgramacionI.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\obj\Debug\net5.0\PracticaN1ProgramacionI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\obj\Debug\net5.0\PracticaN1ProgramacionI.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\obj\Debug\net5.0\PracticaN1ProgramacionI.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\obj\Debug\net5.0\PracticaN1ProgramacionI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\obj\Debug\net5.0\PracticaN1ProgramacionI.dll
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\obj\Debug\net5.0\ref\PracticaN1ProgramacionI.dll
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\obj\Debug\net5.0\PracticaN1ProgramacionI.pdb
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN1ProgramacionI\PracticaN1ProgramacionI\obj\Debug\net5.0\PracticaN1ProgramacionI.genruntimeconfig.cache
