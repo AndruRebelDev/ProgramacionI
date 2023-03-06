@@ -1,0 +1,15 @@
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\bin\Debug\net6.0\PracticaN2ProgramacionI.exe
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\bin\Debug\net6.0\PracticaN2ProgramacionI.deps.json
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\bin\Debug\net6.0\PracticaN2ProgramacionI.runtimeconfig.json
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\bin\Debug\net6.0\PracticaN2ProgramacionI.dll
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\bin\Debug\net6.0\PracticaN2ProgramacionI.pdb
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\obj\Debug\net6.0\PracticaN2ProgramacionI.csproj.AssemblyReference.cache
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\obj\Debug\net6.0\PracticaN2ProgramacionI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\obj\Debug\net6.0\PracticaN2ProgramacionI.AssemblyInfoInputs.cache
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\obj\Debug\net6.0\PracticaN2ProgramacionI.AssemblyInfo.cs
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\obj\Debug\net6.0\PracticaN2ProgramacionI.csproj.CoreCompileInputs.cache
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\obj\Debug\net6.0\PracticaN2ProgramacionI.dll
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\obj\Debug\net6.0\refint\PracticaN2ProgramacionI.dll
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\obj\Debug\net6.0\PracticaN2ProgramacionI.pdb
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\obj\Debug\net6.0\PracticaN2ProgramacionI.genruntimeconfig.cache
+C:\Users\usuariocc\source\repos\PracticaN2ProgramacionI\PracticaN2ProgramacionI\obj\Debug\net6.0\ref\PracticaN2ProgramacionI.dll
