@@ -19,7 +19,6 @@ C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\Practic
 C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\bin\Debug\net5.0\PracticaN3ProgramacionI.runtimeconfig.json
 C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\bin\Debug\net5.0\PracticaN3ProgramacionI.runtimeconfig.dev.json
 C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\bin\Debug\net5.0\PracticaN3ProgramacionI.dll
-C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\bin\Debug\net5.0\ref\PracticaN3ProgramacionI.dll
 C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\bin\Debug\net5.0\PracticaN3ProgramacionI.pdb
 C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\obj\Debug\net5.0\PracticaN3ProgramacionI.csproj.AssemblyReference.cache
 C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\obj\Debug\net5.0\PracticaN3ProgramacionI.GeneratedMSBuildEditorConfig.editorconfig
@@ -30,3 +29,4 @@ C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\Practic
 C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\obj\Debug\net5.0\ref\PracticaN3ProgramacionI.dll
 C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\obj\Debug\net5.0\PracticaN3ProgramacionI.pdb
 C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\obj\Debug\net5.0\PracticaN3ProgramacionI.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN3ProgramacionI\PracticaN3ProgramacionI\obj\Debug\net5.0\refint\PracticaN3ProgramacionI.dll
