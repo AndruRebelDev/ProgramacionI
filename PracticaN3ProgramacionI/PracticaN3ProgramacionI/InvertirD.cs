@@ -8,11 +8,11 @@ namespace PracticaN3ProgramacionI
 {
     class InvertirD
     {
-        float num;
-        float numInverso;
+        double num;
+        double numInverso;
         int cantidadD;
 
-        public InvertirD(float num)
+        public InvertirD(double num)
         {
             this.num = num;
             CalcularDigitos();
@@ -24,7 +24,7 @@ namespace PracticaN3ProgramacionI
         {
 
             //---------------Solo con dos digitos-----------
-            float residuo;
+            double residuo;
             residuo = num % 10;
 
 
@@ -49,7 +49,7 @@ namespace PracticaN3ProgramacionI
         public void InvertirDigitosM2()
         {
             //PROCESO INCIAL
-            float residuo;
+            double residuo;
             residuo = num % 10;
             Console.WriteLine("ComprobarNum" + num);
             numInverso = residuo * 10;
@@ -75,7 +75,7 @@ namespace PracticaN3ProgramacionI
         {
             // UN CONTADOR QUE NOS PERMITE ALMACENAR LA CANTIDAD DE DIGITOS DE UN NUMERO DIVIDIENDOLO ENTRE 10
             //HASTA QUE EL VALOR SEA MENOR A 1
-            float aux = num;
+            double aux = num;
 
             while (aux >= 1)
             {

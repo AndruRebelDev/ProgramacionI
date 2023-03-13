@@ -29,7 +29,7 @@ namespace PracticaN3ProgramacionI
                 if (opcion == 2)
                 {
                     Console.WriteLine("Ingrese un numero");
-                    float a = float.Parse(Console.ReadLine());
+                    double a = long.Parse(Console.ReadLine());
                     InvertirD invert = new InvertirD(a);
                 }
 
