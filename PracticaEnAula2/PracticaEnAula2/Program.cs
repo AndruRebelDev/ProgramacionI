@@ -7,20 +7,14 @@ namespace PracticaEnAula2
         {
           
             List<Num> lista = new List<Num>();
-            lista.Add(new Calculo1(2));
-            lista.Add(new Calculo2(4));
-            lista.Add(new Calculo3(4));
-            lista.Add(new Calculo4(4));
-            lista.Add(new Calculo5(5));
-            lista.Add(new Calculo6(5));
-            lista.Add(new Calculo7(1));
-            lista.Add(new Calculo8(1));
+            
+           
             MaquinaDeEscribir maq = new MaquinaDeEscribir();
 
 
             int opcion=0;
 
-            while (opcion < 9)
+            while (opcion < 11)
             {
                 maq.Maquina(10,"\n\n----------------WELCOME TO ANDRU'S PROGRAM-------------------");
                 maq.Maquina(10, "\n\n---------------------------MAIN MENU-------------------");
@@ -32,7 +26,9 @@ namespace PracticaEnAula2
                 maq.Maquina(10, "\n\n6:SUELDO DE UN EMPLEADO DESPUES DE APLICAR DESCUENTOS DE LA EMPRESA");
                 maq.Maquina(10, "\n\n7:EQUIVALENCIA DE DIAS EN SEGUNDOS");
                 maq.Maquina(10, "\n\n8:DEVOLVER CAMBIO");
-                maq.Maquina(10, "\n\n9:EXIT");
+                maq.Maquina(10, "\n\n9:SUPERCIFIE DE UN TRIANGULO");
+                maq.Maquina(10, "\n\n10:AREA Y VOLUMEN DE UN CILINDRO");
+                maq.Maquina(10, "\n\n11:EXIT");
                 maq.Maquina(10, "\n\n---------------------------------------------------------------");
                 maq.Maquina(10, "\n\n¿Que deseas obtener?");
                 Console.WriteLine("");
