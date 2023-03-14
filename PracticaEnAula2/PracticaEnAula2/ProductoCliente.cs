@@ -44,16 +44,19 @@ namespace PracticaEnAula2
             if (disposicionC > precioP)
             {
                 abono = disposicionC - precioP;
-                maq.Maquina(30, "\n\nLA CANTIDAD DE ABONO ES DE:" + abono + "PARA LLEGAR AL TOTAL DE: " + precioP);
+                maq.Maquina(30, "\n\nLA CANTIDAD DE ABONO ES DE: " + abono +"Bs "+ " PARA LLEGAR AL TOTAL DE: " + precioP + "Bs ");
+                Console.WriteLine("");
             }
             else if (disposicionC < precioP)
             {
                 abono = precioP - disposicionC;
-                maq.Maquina(30, "\n\nLA CANTIDAD DE ABONO ES DE:" + abono + "PARA LLEGAR AL TOTAL DE: " + precioP + "SUMADO A LA DISPOSICION DEL CLIENTE: " + disposicionC);
+                maq.Maquina(30, "\n\nLA CANTIDAD DE ABONO ES DE: " + abono + "Bs " + " PARA LLEGAR AL TOTAL DE: " + precioP + "Bs " + " SUMADO A LA DISPOSICION DEL CLIENTE: " + disposicionC + "Bs ");
+                Console.WriteLine("");
             }
             if (disposicionC == precioP)
             {
-                maq.Maquina(30, "\n\nLA CANTIDAD DE ABONO ES DE:" + 0 + " LA CANTIDAD QUE TIENE EL CLIENTE ES EXACTA PARA ADQUIRIR EL ARTICULO");
+                maq.Maquina(30, "\n\nLA CANTIDAD DE ABONO ES DE: " + 0 + " LA CANTIDAD QUE TIENE EL CLIENTE ES EXACTA PARA ADQUIRIR EL ARTICULO");
+                Console.WriteLine("");
             }
         }
     }
@@ -63,9 +66,9 @@ namespace PracticaEnAula2
         public override void LeerDatos()
         {
             MaquinaDeEscribir maq = new MaquinaDeEscribir();
-            maq.Maquina(30, "\n\n INGRESE EL NOMBRE DEL CLIENTE");
+            maq.Maquina(30, "\n\n INGRESE EL NOMBRE DEL CLIENTE: ");
             nombreC = Console.ReadLine();
-            maq.Maquina(30, "\n\n INGRESE EL NOMBRE DEL PRODUCTO");
+            maq.Maquina(30, "\n\n INGRESE EL NOMBRE DEL PRODUCTO: ");
             nombreP = Console.ReadLine();
             maq.Maquina(30, "\n\n INGRESE EL PRECIO DEL PRODUCTO: ");
             precioP = float.Parse(Console.ReadLine());
@@ -80,14 +83,17 @@ namespace PracticaEnAula2
             {
                 cambio = disposicionC - precioP;
                 maq.Maquina(30, "\n\nLA CANTIDAD DE CAMBIO ES DE:" + cambio + "Bs");
+                Console.WriteLine("");
             }
             else if (disposicionC < precioP)
             {
                 maq.Maquina(30, "\n\nEL CLIENTE NO CUNETA CON LA CANTIDAD NECESARIA PARA ADQUIRIR EL PRODUCTO");
+                Console.WriteLine("");
             }
             if (disposicionC == precioP)
             {
                 maq.Maquina(30, "\n\nLA CANTIDAD DE CAMBIO ES DE:" + 0 + " LA CANTIDAD QUE TIENE EL CLIENTE ES EXACTA PARA ADQUIRIR EL ARTICULO");
+                Console.WriteLine("");
             }
         }
     }

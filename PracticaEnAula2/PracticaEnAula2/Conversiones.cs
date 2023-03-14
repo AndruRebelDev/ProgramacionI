@@ -14,7 +14,7 @@ namespace PracticaEnAula2
         public void LeerDatos()
         {
             MaquinaDeEscribir maq = new MaquinaDeEscribir();
-            maq.Maquina(30, "\n\n INGRESE LA CANTIDAD DE DIAS");
+            maq.Maquina(30, "\n\n INGRESE LA CANTIDAD DE DIAS: ");
             dias = Convert.ToInt32(Console.ReadLine());
         }
         public void RealizarCalculo()
@@ -22,6 +22,7 @@ namespace PracticaEnAula2
             MaquinaDeEscribir maq = new MaquinaDeEscribir();
             conversioDS = dias * segundos;
             maq.Maquina(30, "\n\n " + dias +" DIAS EQUIVALEN A: " + conversioDS +" Seg");
+            Console.WriteLine("");
         }
 
 
