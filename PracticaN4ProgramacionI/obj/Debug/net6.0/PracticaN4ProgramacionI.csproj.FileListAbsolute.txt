@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\bin\Debug\net6.0\PracticaN4ProgramacionI.exe
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\bin\Debug\net6.0\PracticaN4ProgramacionI.deps.json
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\bin\Debug\net6.0\PracticaN4ProgramacionI.runtimeconfig.json
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\bin\Debug\net6.0\PracticaN4ProgramacionI.dll
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\bin\Debug\net6.0\PracticaN4ProgramacionI.pdb
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\obj\Debug\net6.0\PracticaN4ProgramacionI.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\obj\Debug\net6.0\PracticaN4ProgramacionI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\obj\Debug\net6.0\PracticaN4ProgramacionI.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\obj\Debug\net6.0\PracticaN4ProgramacionI.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\obj\Debug\net6.0\PracticaN4ProgramacionI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\obj\Debug\net6.0\PracticaN4ProgramacionI.dll
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\obj\Debug\net6.0\refint\PracticaN4ProgramacionI.dll
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\obj\Debug\net6.0\PracticaN4ProgramacionI.pdb
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\obj\Debug\net6.0\PracticaN4ProgramacionI.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\PrograIRepositorio\PracticaN4ProgramacionI\obj\Debug\net6.0\ref\PracticaN4ProgramacionI.dll
